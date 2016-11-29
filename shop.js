@@ -115,3 +115,5 @@ $(function () {
 	handleItemDelete(state, listElement, formElement, removeIdentifier, itemTemplate, itemDataAttr);
 	handleItemToggle(listElement, toggleIdentifier, itemDataAttr, state, itemTemplate);
 });
+
+//just testing something
